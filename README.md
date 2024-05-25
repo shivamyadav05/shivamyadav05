@@ -33,6 +33,8 @@ I am a passionate B.Tech CS student at GCET Greater Noida, driven by a curiosity
   
 
 
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 **shivamyadav05/shivamyadav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
