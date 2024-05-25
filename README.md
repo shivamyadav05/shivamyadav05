@@ -13,6 +13,13 @@
 </div>
 
 ## Hey there 👋 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh6MW95aWQzM2kwdDl4bDdhcGhwanNqbDZvYzBjejFlMWhyNXcwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif/>
+</div>
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 <!--
 **shivamyadav05/shivamyadav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
