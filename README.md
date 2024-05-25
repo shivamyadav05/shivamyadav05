@@ -21,7 +21,14 @@ I am a passionate B.Tech CS student at GCET Greater Noida, driven by a curiosity
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at Galgotias College of Engineering and Technology.
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
 ## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,nodejs,mongodb,expressjs,bootstrap)](https://skillicons.dev)
 
 ---
@@ -30,17 +37,12 @@ I am a passionate B.Tech CS student at GCET Greater Noida, driven by a curiosity
 https://github-readme-streak-stats.herokuapp.com/?user=shivamyadav05
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivamyadav05&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadav05&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **shivamyadav05/shivamyadav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
