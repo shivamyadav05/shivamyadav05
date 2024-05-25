@@ -24,6 +24,12 @@ I am a passionate B.Tech CS student at GCET Greater Noida, driven by a curiosity
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,nodejs,mongodb,expressjs,bootstrap)](https://skillicons.dev)
 
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=shivamyadav05
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivamyadav05&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
