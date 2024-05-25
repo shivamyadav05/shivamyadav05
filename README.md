@@ -17,12 +17,20 @@
     
 I am a passionate B.Tech CS student at GCET Greater Noida, driven by a curiosity for technology . My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![shivamyadav05's Stats](https://github-readme-stats.vercel.app/api?shivamyadav05=shivamyadav05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at Galgotias College of Engineering and Technology.
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,nodejs,mongodb,expressjs,bootstrap)](https://skillicons.dev)
 
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  
 
 
 <!--
