@@ -34,7 +34,7 @@ I am a passionate B.Tech CS student at GCET Greater Noida, driven by a curiosity
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=shivamyadav05
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivamyadav05&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadav05&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
